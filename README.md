@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/agentgt/jirm.png)](https://travis-ci.org/agentgt/jirm)
+[![Build Status](https://travis-ci.org/mincol/jirm.png)](https://travis-ci.org/agentgt/jirm)
 JIRM
 ====
 
