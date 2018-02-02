@@ -1,7 +1,6 @@
 language: java
 jdk:
-  - openjdk6
-  - openjdk7
+  - openjdk8
 services: postgresql
 before_script:
   - psql -c 'create database myapp_test;' -U postgres
