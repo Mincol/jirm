@@ -10,7 +10,7 @@
   <name>jirm</name>
   <description>Java Immutable object Relational Mapper is a unique Java SQL ORM that allows you to CRUD immutable objects.</description>
 
-  <url>https://github.com/agentgt/jirm</url>
+  <url>https://github.com/mincol/jirm</url>
 
   <modules>
     <module>jirm-core</module>
@@ -37,9 +37,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:agentgt/jirm.git</connection>
-    <developerConnection>scm:git:git@github.com:agentgt/jirm.git</developerConnection>
-    <url>scm:git:git@github.com:agentgt/jirm.git</url>
+    <connection>scm:git:git@github.com:mincol/jirm.git</connection>
+    <developerConnection>scm:git:git@github.com:mincol/jirm.git</developerConnection>
+    <url>scm:git:git@github.com:mincol/jirm.git</url>
     <tag>HEAD</tag>
   </scm>
 
