@@ -1,4 +1,6 @@
 [![Build Status](https://travis-ci.org/Mincol/jirm.png)](https://travis-ci.org/Mincol/jirm)
+[![Coverage Status](https://coveralls.io/repos/github/Mincol/jirm/badge.svg?branch=master)](https://coveralls.io/github/Mincol/jirm?branch=master)
+
 JIRM
 ====
 
