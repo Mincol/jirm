@@ -5,4 +5,6 @@ services: postgresql
 before_script:
   - psql -c 'create database myapp_test;' -U postgres
   - psql -f 'jirm-spring/src/test/sql/create-test-db.sql' -U postgres -d 'myapp_test'
+after_success:
+  - mvn clean test jacoco:report coveralls:report
 
