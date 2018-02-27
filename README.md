@@ -1,5 +1,6 @@
 [![Build Status](https://travis-ci.org/Mincol/jirm.png)](https://travis-ci.org/Mincol/jirm)
 [![Coverage Status](https://coveralls.io/repos/github/Mincol/jirm/badge.svg?branch=master)](https://coveralls.io/github/Mincol/jirm?branch=master)
+[![VersionEye](https://www.versioneye.com/user/projects/5a9556820fb24f19aab456c5/badge.svg)](https://www.versioneye.com/user/projects/5a9556820fb24f19aab456c5?child=summary)
 [![License](http://img.shields.io/:license-apache-brightgreen.svg)](http://www.apache.org/licenses/LICENSE-2.0.html)
 
 JIRM
